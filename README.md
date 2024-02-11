@@ -10,3 +10,5 @@ In these challenges, we aim to create a digital representation of a farm and its
 
 
 3) **LOOP AND FUNCTIONS CODE CHALLENGE**
+
+In this graded code challenge, we were tasked with creating Python functions to automate the movement of a tractor in a farm field. The first function, tractor_movement_standard, generates a list of tuples representing the movement of the tractor across the entire field, iterating row by row. The second function, reverse_list, reverses the order of elements in a given list. Finally, the third function, tractor_movement_realistic, simulates a more realistic tractor movement by alternating the direction of traversal between rows, moving from top to bottom for even columns and from bottom to top for odd columns. These functions enable efficient automation of tractor movement in various field configurations, contributing to code modularity and readability.
