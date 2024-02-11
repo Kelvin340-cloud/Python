@@ -1,3 +1,3 @@
-FARM MANAGEMENT CODE CHALLENGE
+**FARM MANAGEMENT CODE CHALLENGE**
 
-In this code challenge, we will assist a farmer in calculating the total harvest from two fields (wheat and potatoes) and the overall expenses and profits for this season.
+In this code challenge, we assisted a farmer in calculating various financial metrics related to their harvest season. Initially, we computed the total harvest by summing up the yields of wheat and potatoes, providing insight into the overall productivity. Next, we determined the total expenses, considering costs for seeds and labor, highlighting the financial outlay required for farming operations. Subsequently, we calculated the total revenue based on the selling prices of wheat and potatoes per kilogram, reflecting the income generated from the harvested crops. Finally, we computed the total profit by subtracting the total expenses from the total revenue, indicating the financial gain or loss resulting from the farming activities. These calculations, facilitated by basic arithmetic operations and variable assignments, allow for a comprehensive understanding of the farmer's financial performance during the harvest season.
